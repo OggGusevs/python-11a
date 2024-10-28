@@ -25,4 +25,4 @@ print (C)
 D = (2 ** x y) / (5 y)
 
 print (D)
-    main()
+
